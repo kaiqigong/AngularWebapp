@@ -1,0 +1,4 @@
+AngularWebapp
+=============
+
+Folder structure
