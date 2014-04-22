@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "cloud3webapp",
+  "devDependencies": {
+    "karma": "^0.12.9",
+    "protractor": "~0.20.1",
+    "http-server": "^0.6.1",
+    "bower": "^1.3.1",
+    "shelljs": "^0.2.6",
+    "karma-chrome-launcher": "^0.1.3",
+    "karma-jasmine": "^0.1.5"
+  }
+}
