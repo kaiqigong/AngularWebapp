@@ -6,6 +6,7 @@ This is a sample to demo the angular folder structure.
 `npm install`  
 `bower install`  
 ##Run Preview
+`coffee -c -o app/ app/`  
 `cd app`  
 `node ../scripts/web-server.js`  
 
